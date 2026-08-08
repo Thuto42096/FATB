@@ -1,0 +1,13 @@
+{
+  "crypto": [
+    {"symbol": "BTC/USDT", "exchange": "binance"},
+    {"symbol": "ETH/USDT", "exchange": "binance"},
+    {"symbol": "SOL/USDT", "exchange": "binance"}
+  ],
+  "forex": [
+    {"symbol": "EURUSD=X", "name": "EUR/USD"},
+    {"symbol": "GBPUSD=X", "name": "GBP/USD"},
+    {"symbol": "USDJPY=X", "name": "USD/JPY"},
+    {"symbol": "USDZAR=X", "name": "USD/ZAR"}
+  ]
+}
